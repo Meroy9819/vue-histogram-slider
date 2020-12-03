@@ -1,5 +1,5 @@
 {
-  "name": "vue-histogram-slider",
+  "name": "vue-histogram-slider-meroy",
   "description": "Range slider with histogram for vue.js",
   "version": "0.3.8",
   "main": "dist/histogram-slider.umd.min.js",
